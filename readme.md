@@ -2,7 +2,7 @@
 
 ###### Diagrama de comonentes
 
-[Imagen](.\Documentation\ComponentsDiagram.jpg)
+[Imagen](./Documentation/ComponentsDiagram.jpg)
 
 - **AppComponent**: Es el componente principal que engloba toda la aplicación. Actúa como el punto de entrada principal y contiene todos los demás componentes de la aplicación.
 - **HeaderComponent**: Muestra el encabezado de la página, que va a incluir el título del catálogo de biografías y el menú de navegación.
